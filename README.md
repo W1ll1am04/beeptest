@@ -3,7 +3,7 @@ A screensaver like thing that displays message randomly jumps around in the cons
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Dependecies & Releases
+### Dependecies
 
 ### Dependencies
 
