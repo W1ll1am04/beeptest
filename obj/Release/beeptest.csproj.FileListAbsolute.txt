@@ -1,0 +1,9 @@
+C:\Users\willi\source\repos\beeptest\beeptest\bin\Release\beeptest.exe.config
+C:\Users\willi\source\repos\beeptest\beeptest\bin\Release\beeptest.exe
+C:\Users\willi\source\repos\beeptest\beeptest\bin\Release\beeptest.pdb
+C:\Users\willi\source\repos\beeptest\beeptest\bin\Release\Newtonsoft.Json.dll
+C:\Users\willi\source\repos\beeptest\beeptest\bin\Release\Newtonsoft.Json.xml
+C:\Users\willi\source\repos\beeptest\beeptest\obj\Release\beeptest.csprojAssemblyReference.cache
+C:\Users\willi\source\repos\beeptest\beeptest\obj\Release\beeptest.csproj.CopyComplete
+C:\Users\willi\source\repos\beeptest\beeptest\obj\Release\beeptest.exe
+C:\Users\willi\source\repos\beeptest\beeptest\obj\Release\beeptest.pdb
