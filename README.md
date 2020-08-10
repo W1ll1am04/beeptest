@@ -6,6 +6,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Dependencies
 
 You need [Microsoft .NET 4.7.2++ Framework](https://dotnet.microsoft.com/download/dotnet-framework)
+
 You need [Newtonsoft.Json for .NET 4.7.2++](https://github.com/JamesNK/Newtonsoft.Json)
 
 ### Author & License
